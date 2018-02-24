@@ -1,0 +1,16 @@
+{
+  "name": "react-beginner-tutorial-basic-react-component-without-react",
+  "version": "1.0.0",
+  "description": "Same basic React component without React",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
